@@ -23,7 +23,7 @@
 She/Her
 
 ## ⚡ Fun Fact:
-I run on **coffee** and **code**—one cup of ☕️ at a time!
+I run on **coffee** ☕️!
 
 <!---
 ashleyckw/ashleyckw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
