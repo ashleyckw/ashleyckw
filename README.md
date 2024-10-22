@@ -12,7 +12,7 @@
 - **Advanced NLP** techniques for multilingual text processing and more.
 
 ## 💞️ Looking to Collaborate:
-- On exciting **data science** projects, especially those that use AI to create impactful, innovative solutions.
+- On exciting **data science** and and **MLOps** projects, especially those that use AI to create impactful, innovative solutions.
 - Open to **collaborations** on anything related to **machine learning**, **deep learning**, or **AI-driven projects**.
 
 ## 📫 How to Reach Me:
